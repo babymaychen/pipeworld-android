@@ -18,7 +18,3 @@ specific improvements in mind.
 3. Paste URI from clipboard (if it did not appeared automatically)
 4. Next> Next> **Check "Clone submodules"**
 5. Next> select "Import existing project"       
-
-##License
-
-pipeworld-android is licensed under the [MIT license.](https://github.com/uberspot/2048-android/blob/master/LICENSE)
